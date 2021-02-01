@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = 'http://localhost:3000/todos';
+const baseUrl = 'https://jsonplaceholder.typicode.com/todos';
 
 const state = {
 	todos: []
